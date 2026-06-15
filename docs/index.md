@@ -20,7 +20,7 @@ This page provides a video recording of an introductory workshop on using Tablea
 
 Learn to use a market-leading, point-and-click data visualization tool, [Tableau Public](https://www.tableau.com/products/public/download), by creating visualizations, such as bar graphs, line graphs, pie charts, and scatter plots. Learning data visualization skills and tools will help you gain insights into your data, communicate your findings, and stand out in the job market.
 
-This is a 1.5-hour in-person/online workshop, consisting of a short lecture and then a series of demonstrations, which you can follow along with or just watch, interspersed with self-paced activities. There are no breaks.
+This is a 1.5-hour workshop, consisting of a short lecture and then a series of demonstrations, which you can follow along with or just watch, interspersed with self-paced activities. There are no breaks.
 
 This workshop is designed for those new to Tableau and data visualization. Skills gained can help participants from any discipline: Humanities, Social Sciences, or Sciences. There are no prerequisites or assumptions of knowledge of statistics or programming. 
 
